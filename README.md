@@ -4,7 +4,7 @@ Hi 👋 My name is Pete Vermeulen
 front and back end developer who loves JavaScript!
 
 *   🌍  I'm based in Montreal, Canada
-*   🖥️  See my portfolio at [MyPortfolio](http://www.PeteVermeulen.com)
+*   🖥️  See my portfolio at [PeteVermeulen.com](http://www.PeteVermeulen.com)
 *   ✉️  You can contact me at [pete@petevermeulen.com](mailto:pete@petevermeulen.com)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Interesting Projects
